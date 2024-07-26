@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    display: flex;
+justify-content: space-evenly;
+font-weight: 1000;
+}
+ h2{
+
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom:30px;
+ }
+
+ .name{
+    width:558px;
+    height: 452px;
+    background-color: red;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+ }
+
+ .bob{
+   width: 558px;
+   height: 452px;
+    background-color: red;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+ }
+
+ .box{
+   display: flex;
+   justify-content: center;
+   gap: 190px;
+ }
+
+
+
+
+ 
